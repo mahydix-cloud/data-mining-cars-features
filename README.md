@@ -1,0 +1,1 @@
+This project uses comprehensive details on car listings from 1990 to 2017, including specifications, features, and prices. It is valuable for analyzing car price trends and customer preferences in the automotive market. Data mining was used to present results that stakeholders can readily review.
